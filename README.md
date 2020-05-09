@@ -10,4 +10,4 @@ Parte feita usando grid(feito manualmente).
 - [x] 2-13 Brafé 1 - Grid - HTML
 - [x] 2-14 Brafé 1 - Grid - Menu
 - [x] 2-15 Brafé 1 - Grid - Produtos
-- [ ] 2-16 Brafé 1 - Grid - Locais
+- [x] 2-16 Brafé 1 - Grid - Locais
